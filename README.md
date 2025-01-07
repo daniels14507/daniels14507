@@ -23,7 +23,7 @@
 <td width="50%">
 <h3 align="center">Curso Android Básico</h3>
 <div align="center">
-<a href=""https://githuh.com/Ar1sGuimera/Android_Expert." target="_blank"><img src="htt.ps://i.imgur.com/111ACTE.jng" width="400
+<a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="htt.ps://i.imgur.com/111ACTE.jng" width="400
 android"></a>
 <p>
 <a href="httpsu/g.ithuh.com/AisGuimera/Android=Expert." target="_blank">
