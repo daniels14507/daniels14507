@@ -5,12 +5,10 @@
 
 [![YouTube_Channel_Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2KArfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![witch_Statusl](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
-L_GitHub_followersl(https://img.shields.io/github/followers/arisquimera?style=social)l(https://github.com/ArisGuimera)
-![Discord_Shieldl(https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+[![GitHub_followers](https://img.shields.io/github/followers/arisquimera?style=social)](https://github.com/ArisGuimera)
+[![Discord_Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
-
-₩ Sobre mi
-
+ ## Sobre mi
 
 - Mobile developer
 - Te ensefio a programar apps en [Youtubel(https://youtube.com/aristidevs?sub_confirmation=1) (+24k subs)
