@@ -11,15 +11,13 @@
  ## Sobre mi
 
 - Mobile developer
-- Te ensefio a programar apps en [Youtubel(https://youtube.com/aristidevs?sub_confirmation=1) (+24k subs)
-• Y por escrito en [Cursokotl.inl(https://cursokotlin.com)
-- Autor del libro lIniciacion_ a_Android_en_ Kotl.in. _Casos_pract.icosl(https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin-
-casos-practicos)
-- Creador de [AppCademyl(https://appcademy.dev)
+- Te ensefio a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+24k subs)
+- Y por escrito en [Cursokotl.in](https://cursokotlin.com)
+- Autor del libro [Iniciacion_ a_Android_en_ Kotlin _Casos_practicos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
+- Creador de [AppCademy](https://appcademy.dev)
 <br>
 
-
-## Proyectos *bombitask
+## Proyectos *bombitas*
 <table>
 <tr>
 <td width="50%">
