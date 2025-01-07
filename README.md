@@ -3,9 +3,8 @@
 </div>
 <img src="https://i.imgur.com/weNbhGZ.png">
 
-[![YouTube_Channel_Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2KArfcdNRg?style=social)l
-(https://youtube.com/aristidevs?sub_confirmation=1)
-[ witch_Statusl(https://img.shields.io/twitch/status/aristidevs?style=social)l(https://www.twitch.tv/aristidevs)
+[![YouTube_Channel_Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2KArfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
+[![witch_Statusl](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
 L_GitHub_followersl(https://img.shields.io/github/followers/arisquimera?style=social)l(https://github.com/ArisGuimera)
 ![Discord_Shieldl(https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
