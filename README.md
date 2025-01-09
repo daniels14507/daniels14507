@@ -18,11 +18,12 @@
 
  ## Sobre mi
 
-- Mobile developer
-- Te ensefio a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+24k subs)
-- Y por escrito en [Cursokotl.in](https://cursokotlin.com)
-- Autor del libro [Iniciacion_ a_Android_en_ Kotlin _Casos_practicos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- Creador de [AppCademy](https://appcademy.dev)
+- Nombre: Daniel Valdes
+- Programador Junior
+- Lenguajes
+  HTML, CSS y JavaScript
+- Framework
+  React
 <br>
 
 ## Proyectos *bombitas*
