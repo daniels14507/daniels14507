@@ -29,16 +29,4 @@
 <br>
 
 ## Proyectos *bombitas*
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Curso Android Básico</h3>
-<div align="center">
-<a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="htt.ps://i.imgur.com/111ACTE.jng" width="400
-android"></a>
-<p>
-<a href="httpsu/g.ithuh.com/AisGuimera/Android=Expert." target="_blank">
-<img src="https://img.shields.io/badge/CODTG0-ff9?style=for-the-badge&logo=githuh&1ngnColgr=black">
-</a>
-<a href="htt.ps://youtu.be/v.lapzH_46aR" target="_blank">
-<img src-"https://img.shields.io/badge/-Youtuhe_green?st.yle=for-the-badge&color=fhfc40">
+
