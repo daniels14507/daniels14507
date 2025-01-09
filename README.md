@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://www.instagram.com/danielsssx_?igsh=MWMza2EyNTV6dTJ3OQ==">Daniel</a>👋</h1>
+<h1 align="center">Hola, soy <a href="https://www.instagram.com/danielsssx_/">Daniel</a>👋</h1>
 </div>
 <img src="https://imgur.com/7smxGGY.png">
 
