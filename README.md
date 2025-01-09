@@ -9,10 +9,10 @@
 <a href="https://www.instagram.com/danielsssx_?igsh=MWMza2EyNTV6dTJ3OQ==" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
-<a href="https://github.com/tuusuario" target="_blank">
+<a href="https://github.com/daniels14507" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
-<a href="https://www.facebook.com/tuusuario/" target="_blank">
+<a href="https://www.facebook.com/daniel.valdes.90260/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
 </a>
 
