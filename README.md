@@ -21,9 +21,9 @@
 - Nombre: Daniel Valdes
 - Programador Junior
 - Lenguajes
-  HTML, CSS y JavaScript
-- Framework
-  React
+- HTML, CSS y JavaScript
+- Frameworks
+- React
 <br>
 
 ## Proyectos *bombitas*
