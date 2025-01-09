@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://www.instagram.com/danielsssx_?igsh=MWMza2EyNTV6dTJ3OQ==">Daniel</a>👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.stockfresh.com%2Fimage%2F9160868%2Fprogramming-banner-concept&psig=AOvVaw1sIEUQlX1tIsaAZ12qYLUB&ust=1736533338024000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiM-P6g6YoDFQAAAAAdAAAAABAE">
 
 ![YouTube_Channel_Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2KArfcdNRg?style=social)
 ![witch_Statusl](https://img.shields.io/twitch/status/aristidevs?style=social)
