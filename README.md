@@ -3,10 +3,18 @@
 </div>
 <img src="https://imgur.com/7smxGGY.png">
 
-![YouTube_Channel_Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2KArfcdNRg?style=social)
-![witch_Statusl](https://img.shields.io/twitch/status/aristidevs?style=social)
-![GitHub_followers](https://img.shields.io/github/followers/arisquimera?style=social)
-![Discord_Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+<a href="https://www.youtube.com/channel/UCIjEgHA1vatSR2KArfcdNRg" target="_blank">
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2KArfcdNRg?style=social" alt="YouTube Subscribers">
+</a>
+<a href="https://www.twitch.tv/aristidevs" target="_blank">
+  <img src="https://img.shields.io/twitch/status/aristidevs?style=social" alt="Twitch Status">
+</a>
+<a href="https://github.com/arisquimera" target="_blank">
+  <img src="https://img.shields.io/github/followers/arisquimera?style=social" alt="GitHub Followers">
+</a>
+<a href="https://discord.gg/807719549075980308" target="_blank">
+  <img src="https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield" alt="Discord">
+</a>
 
  ## Sobre mi
 
