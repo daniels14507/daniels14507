@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://www.instagram.com/danielsssx_?igsh=MWMza2EyNTV6dTJ3OQ==">Daniel</a>👋</h1>
 </div>
-<img src="https://imgur.com/undefined">
+<img src="https://imgur.com/weNbhGZ.png">
 
 ![YouTube_Channel_Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2KArfcdNRg?style=social)
 ![witch_Statusl](https://img.shields.io/twitch/status/aristidevs?style=social)
