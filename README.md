@@ -3,17 +3,17 @@
 </div>
 <img src="https://imgur.com/7smxGGY.png">
 
-<a href="https://www.youtube.com/channel/UCIjEgHA1vatSR2KArfcdNRg" target="_blank">
-  <img src="https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2KArfcdNRg?style=social" alt="YouTube Subscribers">
+<a href="https://wa.me/1234567890" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
-<a href="https://www.twitch.tv/aristidevs" target="_blank">
-  <img src="https://img.shields.io/twitch/status/aristidevs?style=social" alt="Twitch Status">
+<a href="https://www.instagram.com/tuusuario/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
-<a href="https://github.com/arisquimera" target="_blank">
-  <img src="https://img.shields.io/github/followers/arisquimera?style=social" alt="GitHub Followers">
+<a href="https://github.com/tuusuario" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
-<a href="https://discord.gg/807719549075980308" target="_blank">
-  <img src="https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield" alt="Discord">
+<a href="https://www.facebook.com/tuusuario/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
 </a>
 
  ## Sobre mi
